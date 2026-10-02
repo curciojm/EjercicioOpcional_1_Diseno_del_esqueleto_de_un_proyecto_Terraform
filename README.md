@@ -1,4 +1,4 @@
-# Práctica: Diseño del esqueleto de un proyecto Terraform
+# Diseño del esqueleto de un proyecto Terraform
 
 Proyecto correspondiente a la práctica de diseño de la estructura básica de un proyecto con **Terraform**.
 
